@@ -1,5 +1,5 @@
 # bump: xorgproto-version /XORGPROTO_VERSION="(.*)"/ https://xorg.freedesktop.org/archive/individual/proto/|re:/href="xorgproto-([0-9.]+)\.tar\.gz"/$1/|semver:*
-XORGPROTO_VERSION="2024.1"
+XORGPROTO_VERSION="2025.1"
 
 ###
 ### Build control file for the xorgproto port
